@@ -1,0 +1,12 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+Car	lib/sub_car.rb	/^class Car < Vehicle$/;"	c
+Vehicle	lib/super_vehicle.rb	/^class Vehicle$/;"	c
+fill_up_tank	lib/super_vehicle.rb	/^  def fill_up_tank$/;"	f	class:Vehicle
+go	lib/sub_car.rb	/^   def go$/;"	f	class:Car
+go	lib/super_vehicle.rb	/^  def go$/;"	f	class:Vehicle
+initialize	lib/super_vehicle.rb	/^  def initialize(wheel_size, wheel_number)$/;"	f	class:Vehicle
