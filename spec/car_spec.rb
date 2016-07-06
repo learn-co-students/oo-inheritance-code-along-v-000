@@ -1,4 +1,5 @@
-require "spec_helper"
+require_relative "../lib/super_vehicle.rb"
+require_relative "../lib/sub_car.rb"
 
 describe "car" do 
   let!(:car) { Car.new("medium", 4) } 
