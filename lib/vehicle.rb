@@ -9,7 +9,6 @@
 #####fill_up_tank
 #returns 'filling up!'
 
-
 class Vehicle
   attr_accessor :wheel_size, :wheel_number
 
