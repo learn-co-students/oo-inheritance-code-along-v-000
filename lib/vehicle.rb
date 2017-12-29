@@ -1,5 +1,7 @@
 class Vehicle
 
+  # super class. We inherite the methods from here into the sub class Car
+
   attr_accessor :wheel_size, :wheel_number
 
   def initialize(wheel_size, wheel_number)
@@ -14,5 +16,5 @@ class Vehicle
   def fill_up_tank
     "filling up!"
   end
-  
+
 end
