@@ -1,4 +1,4 @@
-# Code Along: An Intro to Inheritance test
+# Code Along: An Intro to Inheritance
 
 ## Objectives
 
