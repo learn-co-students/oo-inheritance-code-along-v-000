@@ -1,6 +1,9 @@
 class Vehicle
   attr_accessor :wheel, :number
 
+  def initialize
+  end
+
   def wheel_size
   end
 
