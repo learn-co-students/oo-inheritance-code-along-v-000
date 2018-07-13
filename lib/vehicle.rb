@@ -4,4 +4,7 @@ class Vehicle
   def wheel_size
   end
 
+  def wheel_number
+  end
+
 end
