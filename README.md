@@ -4,7 +4,7 @@
 
 1. Learn about inheritance in object oriented Ruby.
 2. Write classes that inherit from another class.
-
+ 
 ## Introduction: Why Inheritance?
 
 In the real-world, different entities (people, animals, cars, you name it) are related in various ways. Within a single entity or group, there exist systems of classification. For example, the "dogs" entity or category includes pugs, corgis, labs, etc. All of these breeds share common features because they are all dogs. But they all have certain unique traits as well.
